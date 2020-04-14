@@ -513,3 +513,7 @@ j
 :src/main/scala/DataStructure/HashTable/HashTableDemo.scala,7\4\74b43d5d295ab63c2289ab23d919cb54197a8e1f
 l
 <src/main/scala/DataStructure/BinaryTree/BinaryTreeDemo.scala,1\9\19dca4614c2d1b2a1bccee3b90527ddc0d1cfe35
+l
+<src/main/scala/DataStructure/BinaryTree/BinarySortTree.scala,d\7\d7d7b3a937b631ddb049f82a5a1b7458cc0615cf
+i
+9src/main/scala/DataStructure/BinaryTree/ArrTreeDemo.scala,e\b\eb8172b4e3294a6a857dc83477390a180d02b307
