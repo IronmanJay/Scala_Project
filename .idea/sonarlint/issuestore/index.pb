@@ -521,3 +521,9 @@ w
 G.idea/sonarlint/issuestore/d/7/d7d7b3a937b631ddb049f82a5a1b7458cc0615cf,5\5\555585555956b49faf0981538555d1a97d40d2b6
 w
 G.idea/sonarlint/issuestore/e/b/eb8172b4e3294a6a857dc83477390a180d02b307,4\6\46af421ba442f8b4abdeb6d46ae54f2e816675f1
+w
+G.idea/sonarlint/issuestore/5/5/555585555956b49faf0981538555d1a97d40d2b6,8\9\89afd5f6a48a4e9b722eaa1358e2e0c09f7d219b
+w
+G.idea/sonarlint/issuestore/4/6/46af421ba442f8b4abdeb6d46ae54f2e816675f1,a\8\a8e91a87bf24d4b79885cb344c99fa0e17b5fd68
+d
+4src/main/scala/DataStructure/Sort/ThreeNumSort.scala,5\f\5fc9a4e570725992b2f062b0a3b8fad5998adec9
